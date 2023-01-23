@@ -23,6 +23,6 @@ $(function () {
       $(this).find('textarea').text(localStorage.getItem($(this).attr('id')));
   });
 
-  
+  $('#currentDay').text(dayjs().format('dddd, MMMM D, h:mm:s A'));
 });
   
