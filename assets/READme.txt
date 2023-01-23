@@ -42,4 +42,13 @@ We welcome contributions to this project. If you are interested in making a cont
 
 
 
+Deployed URL: https://cmadrid48.github.io/vvorkdayPlanner/
+
+GitHub Repo: https://github.com/cmadrid48/vvorkdayPlanner
+
+
+
+
+
+
 
