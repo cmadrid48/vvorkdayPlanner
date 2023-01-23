@@ -2,7 +2,7 @@
 
 This daily planner is designed to help you create and manage a schedule for the current day.
 
-![alt text][screenshot]
+![alt](assets/CSS/screenShots/05-third-party-apis-homework-demo.gif)
 
 ## Features
 
