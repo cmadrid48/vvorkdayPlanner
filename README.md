@@ -2,7 +2,7 @@
 
 This daily planner is designed to help you create and manage a schedule for the current day.
 
-![alt text](assets\CSS\screenShots\05-third-party-apis-homework-demo.gif)
+![alt text][screenshot]
 
 ## Features
 
@@ -68,3 +68,5 @@ Please make sure to update tests as appropriate.
 Deployed URL: [https://cmadrid48.github.io/vvorkdayPlanner/](https://cmadrid48.github.io/vvorkdayPlanner/)
 
 GitHub Repo: [https://github.com/cmadrid48/vvorkdayPlanner](https://github.com/cmadrid48/vvorkdayPlanner)
+
+[screenshot]: assets\CSS\screenShots\05-third-party-apis-homework-demo.gif
