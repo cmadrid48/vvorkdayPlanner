@@ -35,7 +35,7 @@ git clone https://github.com/cmadrid48/vvorkdayPlanner.git [destination]
 to clone the repository.
 Navigate into the cloned repository using the command 
 ```bash
-cd daily-planner
+cd daily-wworkdayPlanner
 ```
 Use the command 
 ```bash
