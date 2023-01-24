@@ -2,8 +2,8 @@
 // the code isn't run until the browser has finished rendering all the elements
 // in the html.
 
-
-// save button function
+//jquery
+// save button function, saving local storage
 $(function () {
   $('.saveBtn').click(function() {
     var blockId = $(this).parent('.time-block').attr('id');
@@ -16,6 +16,7 @@ $(function () {
   $('.time-block').each(function() {
     var hour = $(this).attr('id').split('-')[1];
 
+    //conditionals for status bar
       if (hour < dayjs().hour()) {
         $(this).addClass('past');
       } else if (hour == dayjs().hour()) {
@@ -23,7 +24,7 @@ $(function () {
       } else {
         $(this).addClass('future');
       }
-
+      //jquery (this) used to adhere local storage from click onto html
       $(this).find('textarea').text(localStorage.getItem($(this).attr('id')));
   });
 
